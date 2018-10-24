@@ -20,3 +20,6 @@ Contains code we will deploy to Amazon EC2 server. It will act as a standalone m
 Web based user inerface. To be hosted as a static websie on s3. 
 
 
+### Accessing EC2 Instance via SSH
+
+- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
